@@ -24,6 +24,7 @@ function johnLennonFacts(facts) {
    crzyboutlennon.push(string);
     n++;
   }
+return crzyboutlennon;
 
 }
-  return crzyboutlennon;
+  
