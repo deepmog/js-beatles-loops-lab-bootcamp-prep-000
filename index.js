@@ -32,5 +32,5 @@ return crzyboutlennon;
   
   
   function iLoveTheBeatles(n) {
-    
+    var Hollowarray = [];
   }
