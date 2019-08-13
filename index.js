@@ -25,6 +25,5 @@ function johnLennonFacts(facts) {
     n++;
   }
 return crzyboutlennon;
-
 }
   
