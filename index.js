@@ -33,7 +33,7 @@ return crzyboutlennon;
   
   function iLoveTheBeatles(n) {
     var Hollowarray = [];
-    do {Hollowarray.push("I love the Beatles!")}
+    do {Hollowarray.push("I love the Beatles!"); n++;}
     x = 1;
     while (x < 10) {}
   }
