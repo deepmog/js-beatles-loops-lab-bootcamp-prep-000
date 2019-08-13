@@ -32,5 +32,7 @@ return crzyboutlennon;
   
   
   function iLoveTheBeatles(n) {
-    var Hollowarray = [];
+    var Hollowarray = []; x = 0;
+    while (x < )
+    
   }
